@@ -37,3 +37,6 @@ git clone https://github.com/Jaybohol23/Jay
 cd Jay
 
 python Jay.py
+
+
+[Screenshot_20240405-122343.png]
